@@ -1,0 +1,2 @@
+# work
+kodluyoruzla denediğim çalışmalar
